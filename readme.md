@@ -34,7 +34,7 @@ backend-template/
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/backend-template.git
+git clone git@github.com:otherside9710/java-backend-template.git
 cd backend-template
 ```
 
