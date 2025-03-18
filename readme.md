@@ -5,7 +5,7 @@ This is a **backend template** for building a **REST API** using **Spring Boot**
 
 ## 🚀 Tech Stack
 - **Java 17+**
-- **Spring Boot**
+- **Spring Boot 3.4.3**
 - **Spring Data MongoDB**
 - **Hexagonal Architecture**
 - **Domain-Driven Design (DDD)**
